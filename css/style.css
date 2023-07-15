@@ -57,6 +57,7 @@ body {
 
 .container {
   color: black;
+  padding-top: 3rem;
 }
 
 nav ul li {
@@ -129,6 +130,7 @@ nav ul li a:hover::after {
 
 .advantage {
   padding: 6rem;
+  padding-top: 10rem;
   color: azure;
 }
 
@@ -149,6 +151,7 @@ nav ul li a:hover::after {
 }
 
 .rowc {
+  margin-top: 8rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -281,6 +284,7 @@ nav ul li a:hover::after {
 /* * portfolio */
 #portfolio {
   padding: 50px 0;
+  margin-top: 7rem;
 }
 
 .work-list {
